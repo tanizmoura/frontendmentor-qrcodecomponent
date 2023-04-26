@@ -18,9 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.jpg)
 
 Desktop screen
-![Desktop screen](solution-images/pc.png)<br>
+![Desktop screen](solution-images/pc.png)
 
-Phone screen
+Phone screen<br>
 ![Phone screen](solution-images/phone.png)
 
 ### Links
